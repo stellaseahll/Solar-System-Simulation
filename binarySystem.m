@@ -1,3 +1,5 @@
+%% Binary System Function
+
 function T=binarySystem(dt)
 %% binary 1
 M1=1e30; M2=1e30; r=1e10;
